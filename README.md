@@ -9,7 +9,7 @@
 >* **Frontend**: Javascript, CSS, HTML
 >* **PHP**: Symfony
 
--🔭 I’m _currently working_ on **AiArtificer**, an AI assisted automatic content generator.  
+-🔭 I’m _currently working_ on **AiArtificer**, an AI assisted automatic content generator. By the time you are reading this, I might have decided to make the project public, so checking https://aiartificer.com/ is worth a shot!
 >* **Functionalities**:
 >	* Generates:
 >		* SEO Friendly Articles
